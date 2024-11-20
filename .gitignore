@@ -1,0 +1,47 @@
+# 日志文件
+*.log
+merge.log
+
+# 临时文件
+*.tmp
+*.temp
+~*
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE配置
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+venv/
+ENV/
+
+# 视频相关
+*.mp4.tmp
+*.mov.tmp
+cache/
+temp/
+source/
+output/ 
